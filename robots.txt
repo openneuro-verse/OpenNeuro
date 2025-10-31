@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://samay-ai-verse.github.io/Team-Samay/sitemap.xml
+
+Sitemap: https://openneuro-verse.github.io/OpenNeuro/sitemap.xml
